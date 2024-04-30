@@ -214,6 +214,7 @@ _PERSISTED_CONNECTION_DIALECTS = (
     GXSqlDialect.SQLITE,
     GXSqlDialect.MSSQL,
     GXSqlDialect.BIGQUERY,
+    GXSqlDialect.VERTICA,
 )
 
 
